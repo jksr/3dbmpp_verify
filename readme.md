@@ -1,6 +1,6 @@
 **This repository contains code to verify the results of paper [_High-resolution structure prediction of β-barrel membrane proteins_](https://www.pnas.org/content/115/7/1511.short)**
 
-To predict noval β-barrel membrane proteins, please contact [Hammad Naveed](mailto:ammadnaveed@yahoo.com) or [Jie Liang](mailto:jliang@uic.edu)
+To predict noval β-barrel membrane proteins, please contact Hammad Naveed (hammadnaveed{at}yahoo.com) or Jie Liang (jliang{at}uic.edu)
 
 
 
