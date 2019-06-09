@@ -8,8 +8,8 @@ bb-reg contains the programs and input data that are used to predict strand regi
 
 bb-barrel contains the programs to construct 3d structure from the bb-reg results.
 
-> Use 
+Usage:
 
-> >	python main.py
+>	python main.py
 
-> >	in each folder to run and check the results
+>	in each folder to run and check the results
